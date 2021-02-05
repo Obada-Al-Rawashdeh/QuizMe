@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Play</string>
+    <string name="options">Options</string>
+    <string name="score">Score</string>
+    <string name="help">Help</string>
+    <string name="quit">Quit</string>
+    <string name="time" translatable="false">00:30</string>
+    <string name="heart" translatable="false">3</string>
+    <string name="scoree" translatable="false">0</string>
+    <string name="qutionTxt" translatable="false">هذا سؤال من باب التجربة لتجربة عدد الاحرف الممكن استخدامها في السؤال الواحد بصورة جيدة حتى يضل التصميم مناسب للشكل</string>
+    <string name="answerTxt" translatable="false">هذا نموذج للاجابة الواحدة فقط حتى نرى الحجم</string>
+    <string name="exit">exit</string>
+    <string name="win">you passed</string>
+    <string name="correct_answer">correct answer</string>
+    <string name="point_answer">You got 10 points</string>
+    <string name="next_question">next question</string>
+    <string name="time_over">time is over</string>
+    <string name="souls_number">You have lost one of your souls</string>
+    <string name="Incorrect_answer">Incorrect answer</string>
+    <string name="quiz_game">Quiz Game</string>
+    <string name="info">A series of questions to test your cognitive abilities in various historical, mathematical, cognitive, religious, political, etc. fields When you start to play, you will notice that you have three lives. There is also a timer. Try to win the most points. I wish you success.</string>
+    <string name="programmer">Programmer:Obada Al-Rawashdeh</string>
+    <string name="about_game">information about game</string>
+    <string name="test_your_abilities">Test your abilities</string>
+    <string name="result">Results</string>
+    <string name="your_score">your Score:</string>
+    <string name="high_score">High Score:</string>
+    <string name="try_again">Try again</string>
+    <string name="game_over">Game Over</string>
+</resources>

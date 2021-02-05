@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="help">مساعدة</string>
+    <string name="options">الاعدادات</string>
+    <string name="play">أبدا اللعب</string>
+    <string name="quit">خروج</string>
+    <string name="score">النتائج</string>
+    <string name="win">لقد فزت</string>
+    <string name="exit">خروج</string>
+    <string name="correct_answer">اجابة صحيحة</string>
+    <string name="point_answer">لقد حصلت على عشر نقاط</string>
+    <string name="next_question">السؤال التالي</string>
+    <string name="time_over">انتهى الوقت</string>
+    <string name="souls_number">"لقد خسرت احدى ارواحك "</string>
+    <string name="Incorrect_answer">اجابة غير صحيحة</string>
+    <string name="quiz_game">لعبة الاسئلة</string>
+    <string name="info">سلسلة من الاسئلة لاختبار قدراتك المعرفية في مختلف المجالات التاريخية و الرياضية والمعرفية والدينية والسياسية الخ عند بدئك للعب ستلاحظ انه معك ثلاثة ارواح كما يوجد ايضا عداد للوقت حاول ان تفوز باكبر عدد من النقاط اتمنى لك التوفيق</string>
+    <string name="about_game">معلومات حول اللعبة</string>
+    <string name="programmer">المبرمج:عباده الرواشده</string>
+    <string name="test_your_abilities">اختبر قدراتك</string>
+    <string name="result">النتائج</string>
+    <string name="your_score">نتيجتك</string>
+    <string name="high_score">اعلى نتيجة</string>
+    <string name="try_again">اللعب مرة اخرى</string>
+    <string name="game_over">لقد خسرت</string>
+</resources>
